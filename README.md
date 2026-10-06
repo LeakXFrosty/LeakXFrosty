@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Aarav%20Sharma&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Ankit%20Khan&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://github.com/LeakXFrosty">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+AI%2FML+Engineer;Building+Scalable+Full+Stack+Systems;Production+ML+%7C+LLM+Applications+%7C+Cloud+Native;Product+Engineering+with+Enterprise+Standards" alt="Typing SVG" />
