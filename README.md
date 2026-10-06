@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=LeakXFrosty&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Aarav%20Sharma&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://github.com/LeakXFrosty">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+AI%2FML+Engineer;Building+Scalable+Full+Stack+Systems;Production+ML+%7C+LLM+Applications+%7C+Cloud+Native;Product+Engineering+with+Enterprise+Standards" alt="Typing SVG" />
@@ -9,10 +9,10 @@
 <br/><br/>
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-Computer_Science_%26_Engineering-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117)
-![University](https://img.shields.io/badge/University-Your_University-7C3AED?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D1117)
+![University](https://img.shields.io/badge/University-Savitribai_Phule_Pune_University-7C3AED?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D1117)
 ![CGPA](https://img.shields.io/badge/CGPA-9.0%2F10-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0D1117)
 
-![Location](https://img.shields.io/badge/Location-City%2C_Country-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Location-Pune%2C_India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117)
 
 <br/>
 
